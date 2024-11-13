@@ -1,0 +1,6 @@
+@RESTforCD_HostAddress = http://localhost:5058
+
+GET {{RESTforCD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
